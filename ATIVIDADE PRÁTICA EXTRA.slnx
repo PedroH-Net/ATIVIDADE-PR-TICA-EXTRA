@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="ATIVIDADE PRÁTICA EXTRA/Sistema de atendimento.csproj" />
+  <Project Path="Cadastro de cliente/Cadastro de cliente.csproj" />
+  <Project Path="Cadastro de equipamento/Cadastro de equipamento.csproj" />
+  <Project Path="Cadastro de livro da biblioteca/Cadastro de livro da biblioteca.csproj" />
+  <Project Path="Cadastro de produto/Cadastro de produto.csproj" />
+  <Project Path="Cadastro de um novo aluno/Cadastro de um novo aluno.csproj" />
+  <Project Path="Cadastro de veículo/Cadastro de veículo.csproj" />
+  <Project Path="DESAFIO FINAL/DESAFIO FINAL.csproj" Id="fe7c27f9-9379-48e8-84c6-20eea753843b" />
+  <Project Path="Descubra o erro/Descubra o erro.csproj" Id="f030404b-2074-4fdf-accf-3aa065983050" />
+  <Project Path="Ficha identificação profissional/Ficha identificação profissional.csproj" />
+  <Project Path="O código funciona, mas está ruim/O código funciona, mas está ruim.csproj" Id="7c562b68-21ff-4d4c-804e-332d1d236343" />
+  <Project Path="Perfil do estudante/Perfil do estudante.csproj" />
+  <Project Path="Sistema de atendimento/Sistema de inscrição.csproj" />
+  <Project Path="Sistema de cadastro de evento/Sistema de cadastro de evento.csproj" Id="b094416c-76e8-4101-896a-c45c9e64e41b" />
+  <Project Path="Sistema de locação/Sistema de locação.csproj" Id="9abe8b74-4c71-4b91-8b1c-377ec6342271" />
+  <Project Path="Sistema de matrícula/Sistema de matrícula.csproj" />
+  <Project Path="Sistema de pedido/Sistema de pedido.csproj" Id="7bcc326e-079c-448c-b6f1-c20898d9460f" />
+  <Project Path="Sistema profissional/Sistema profissional.csproj" Id="6a781f0b-0aab-4629-9f92-31511ae0996f" />
+  <Project Path="Transforme uma situação real em programa/Transforme uma situação real em programa.csproj" Id="eec317d6-d61d-48b8-80d1-19d9afea3768" />
+  <Project Path="Você é o desenvolvedor/Você é o desenvolvedor.csproj" Id="61681c2b-fc64-4757-8367-84ab26110c65" />
+</Solution>
